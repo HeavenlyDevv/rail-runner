@@ -1,0 +1,1 @@
+.globl wait_halts

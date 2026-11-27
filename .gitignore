@@ -1,0 +1,16 @@
+# Build output
+obj/
+/railrun.dsk
+/railrun.sna
+/railrun.cdt
+
+# Emulator tool output
+tools/emu/rrsim
+tools/emu/out/
+*.ppm
+*.bin
+!dist/**
+
+# System
+.DS_Store
+__pycache__/
